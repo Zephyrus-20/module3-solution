@@ -1,0 +1,27 @@
+nav.navbar{
+    background-color: gray;
+}
+
+nav.navbar a.navbar-brand{
+    color: black;
+    font-size: 22px;
+    font-weight: 750;
+}
+
+#main{
+    background-color: gray;
+    margin: 15px 20px 0 20px; 
+}
+
+#main-heading h1{
+    font-weight: 600;
+}
+
+div.tall-section #sub-heading{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#navbar-collapse ul{
+    background-color: white;
+}
